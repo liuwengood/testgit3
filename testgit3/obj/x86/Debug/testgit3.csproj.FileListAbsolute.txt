@@ -4,3 +4,10 @@ D:\testproj\testgit3\testgit3\obj\x86\Debug\testgit3.Properties.Resources.resour
 D:\testproj\testgit3\testgit3\obj\x86\Debug\testgit3.csproj.GenerateResource.Cache
 D:\testproj\testgit3\testgit3\obj\x86\Debug\testgit3.exe
 D:\testproj\testgit3\testgit3\obj\x86\Debug\testgit3.pdb
+D:\testproj\clonegit3\testgit3\obj\x86\Debug\testgit3.exe
+D:\testproj\clonegit3\testgit3\obj\x86\Debug\testgit3.pdb
+D:\testproj\clonegit3\testgit3\bin\Debug\testgit3.exe
+D:\testproj\clonegit3\testgit3\bin\Debug\testgit3.pdb
+D:\testproj\clonegit3\testgit3\obj\x86\Debug\testgit3.Form1.resources
+D:\testproj\clonegit3\testgit3\obj\x86\Debug\testgit3.Properties.Resources.resources
+D:\testproj\clonegit3\testgit3\obj\x86\Debug\testgit3.csproj.GenerateResource.Cache
